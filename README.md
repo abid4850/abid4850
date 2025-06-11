@@ -7,7 +7,7 @@
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="50" height="50">](https://twitter.com/AbidHussai76533)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/profile.php?id=abid.hussainnoul)
 
-<img src="C:\Users\abidh\Downloads\image.png" alt="Profile Banner" width="100%" style="border-radius:10px;"/>
+<img src="https://github.com/abid4850/abid4850/blob/main/image.png?raw=true" alt="Profile Banner" width="100%" style="border-radius:10px;" />
 
 I am a Data Scientist / Economist based in the University of Punjab Lahore pakistan.
 
