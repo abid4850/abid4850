@@ -7,7 +7,7 @@
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="50" height="50">](https://twitter.com/AbidHussai76533)
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/profile.php?id=abid.hussainnoul)
 
-<img src="[https://your-image-url.com/your-image.jpg](https://www.istockphoto.com/photo/no-face-image-of-male-hands-typing-on-keyboard-writing-html-code-for-website-on-pc-gm1449177295-486447722)" alt="Profile Banner" width="100%" style="border-radius:10px;"/>
+<img src="C:\Users\abidh\Downloads\image.png" alt="Profile Banner" width="100%" style="border-radius:10px;"/>
 
 I am a Data Scientist / Economist based in the University of Punjab Lahore pakistan.
 
@@ -27,4 +27,5 @@ I am a Data Scientist / Economist based in the University of Punjab Lahore pakis
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=abid.hussainnoul) 
 [![Twitter/X](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/AbidHussai76533) 
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/abidhussainnoul/)
-[abidhussainnoul512@gmail.com]
+[![Gmail](https://img.shields.io/badge/Gmail-Email-blue?style=for-the-badge&logo=gmail)](mailto:abidhussainnoul512@gmail.com)
+
