@@ -9,15 +9,15 @@
 
 <img src="https://github.com/abid4850/abid4850/blob/main/image.png?raw=true" alt="Profile Banner" width="100%" style="border-radius:10px;" />
 
-I am a Data Scientist / Economist based in the University of Punjab Lahore pakistan.
+👨‍💻 I am a Data Scientist & Economist.
 
-🔭 I’m currently working as a Data Scientist, with a strong background in Economics, Statistical Modeling, and Data-Driven Decision Making.
+🔭 Currently working as a Data Scientist, with expertise in Economics, Statistical Modeling, and Data-Driven Decision Making.
 
-🌱 Passionate about continuous learning — I explore Machine Learning, AI, and Economic Research through hands-on projects and collaboration.
+🌱 Passionate about continuous learning — exploring Machine Learning, Generative AI, LLMs, LangChain, and Economic Research through hands-on projects.
 
-⚡ In my free time, I am learning the AI, Machine Learing programme and read the latest tech and economics articles.
+⚡ In my free time, I learn advanced AI/ML techniques and stay updated with the latest in tech and economics.
 
-📫 How to reach me: 
+📫 How to reach me:
 
 <h2 style="font-family: 'poppins'; font-weight: bold;">👨‍💻Author: Abid Hussain</h2>
 
