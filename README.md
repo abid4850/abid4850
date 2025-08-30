@@ -8,14 +8,14 @@
 [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/facebook.svg" width="50" height="50">](https://www.facebook.com/profile.php?id=abid.hussainnoul)
 
 <img src="https://github.com/abid4850/abid4850/blob/main/image.png?raw=true" alt="Profile Banner" width="100%" style="border-radius:10px;" />
+ 
+Profile / About Me
 
-👨‍💻 I am a Data Scientist & Economist.
+🔭 I’m currently working as a Data Scientist, combining expertise in Economics, Statistical Modeling, and Data-Driven Decision Making to deliver insights that support business growth and innovation.
 
-🔭 Currently working as a Data Scientist, with expertise in Economics, Statistical Modeling, and Data-Driven Decision Making.
+🌱 I am deeply passionate about continuous learning and actively explore Machine Learning, Generative AI, LLMs, LangChain, Chatbots, and Economic Research through hands-on projects, collaboration, and open-source contributions.
 
-🌱 Passionate about continuous learning — exploring Machine Learning, Generative AI, LLMs, LangChain, and Economic Research through hands-on projects.
-
-⚡ In my free time, I learn advanced AI/ML techniques and stay updated with the latest in tech and economics.
+⚡ In my free time, I dedicate myself to learning advanced AI/ML programs, experimenting with deployment tools like Docker, Hugging Face, and Ollama, and staying updated with the latest developments in technology, data science, and economics.
 
 📫 How to reach me:
 
